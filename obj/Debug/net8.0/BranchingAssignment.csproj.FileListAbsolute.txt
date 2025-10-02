@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.exe
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.deps.json
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.dll
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\bin\Debug\net8.0\BranchingAssignment.pdb
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.dll
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\refint\BranchingAssignment.dll
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.pdb
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\BranchingAssignment.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\dotNet\BranchingAssignment\obj\Debug\net8.0\ref\BranchingAssignment.dll
